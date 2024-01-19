@@ -1,0 +1,1 @@
+Example of Apache Flink side-input broadcasting
